@@ -1,0 +1,14 @@
+var first_name = "Anam ";
+var last_name = "Ali";
+var together = first_name.concat (last_name);
+console.log (together);
+var a = 5;
+var b = 10;
+var add = a + b;
+console.log (add);
+var minus = b - a;
+console.log (minus);
+var times = a * b;
+console.log (times);
+var div = b/a;
+console.log (div);
